@@ -1,1 +1,1 @@
-# Code of Conduct
+# DevSpace Club Code of Conduct
